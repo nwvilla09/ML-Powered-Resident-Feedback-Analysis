@@ -1,0 +1,6 @@
+
+pandas
+textblob
+matplotlib
+seaborn
+fpdf2
