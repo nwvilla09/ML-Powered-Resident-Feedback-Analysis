@@ -1,11 +1,14 @@
 # Machine Learning (ML)-Powered Resident Feedback Analysis
 
-This repository demonstrates key qualifications for a strategic role in municipal management, focusing on data-driven decision-making and process improvement.
+### **Business Summary**
 
-## Summary:
-
-* A prototype system that uses Natural Language Processing (NLP) to analyze a large dataset of over 500 resident comments. The script automatically classifies feedback, performs time-series analysis, and generates a professional **PDF executive summary** with actionable recommendations. This showcases an ability to translate raw data into strategic insights for leadership.
-
+- **Problem:** Government agencies and healthcare systems receive a high volume of unstructured feedback from the public through emails, surveys, and social media. Manually sorting and understanding this feedback is slow, costly, and inconsistent, causing organizations to miss critical trends and opportunities to improve service.
+  
+- **Process:** This project utilizes **Machine Learning (ML)** and Natural Language Processing (NLP) techniques in **Python**. A trained model is used to automatically process text-based feedback. The model performs two key tasks: sentiment analysis (classifying feedback as positive, negative, or neutral) and topic modeling (categorizing comments into themes like "billing," "staff conduct," or "facility cleanliness").
+  
+- **Solution:** The result is an automated pipeline that processes resident feedback in real time. It generates a summary dashboard that displays trends in public sentiment and highlights the most frequently discussed topics, eliminating the need for manual review.
+  
+- **Impact:** This tool empowers public sector leaders to be more responsive to community needs. It allows for the rapid identification of widespread issues, recognition of high-performing departments, and efficient allocation of resources to areas needing improvement. This leads to better public relations, enhanced operational efficiency, and a higher quality of service delivery.This repository demonstrates key qualifications for a strategic role in municipal management, focusing on data-driven decision-making and process improvement.
 
 
 ## 1. Objective
